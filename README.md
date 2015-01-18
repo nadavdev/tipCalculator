@@ -1,3 +1,4 @@
+
 This is an IOS demo application for tip calculation as shown in the following [video](http://vimeo.com/74764846)
 
 Time spent: 5 hours spent in total
